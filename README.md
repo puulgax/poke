@@ -1,6 +1,11 @@
 # POKEAPP
 Treinando React+Redux
 
+
+### `yarn install`
+
+Install all packages and dependencies.
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
